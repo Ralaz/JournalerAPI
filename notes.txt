@@ -1,0 +1,7 @@
+Projekt na potrzeby ćwiczeń
+
+Źródło:
+
+Język Kotlin na platformie Kotlin
+Milos Vasic
+Wydawnictwo Helion
